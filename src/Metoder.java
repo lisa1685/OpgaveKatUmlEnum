@@ -14,6 +14,8 @@ public class Metoder {
         Metoder.udskrivHej();
         udskrivHej();
         udskrivHej();
+        
+        lassesNavn("Lasse");
 
         double skabnen = (int) 6*Math.random()+1;
         System.out.println(skabnen);
@@ -21,6 +23,7 @@ public class Metoder {
         System.out.println(m.sum3(8, 5 , 10));
 
         indtastOgVisNavn("András");
+        ditNavn("Daniel");
 
     }
 
@@ -54,8 +57,29 @@ public class Metoder {
     public static void indtastOgVisNavn(String navn) {
         System.out.println("Hej " + navn);
     }
-     public static void MegetBeskrivendeMetodeMadsN() {
+
+  public static void MegetBeskrivendeMetodeMadsN() {
         System.out.println("Hej Mads Nielsen");
      }
 
+    public static void lassesNavn(String navn){
+        System.out.println(navn + " har lavet sin metode");
+    }
+    
+
+    public static void indtastDitNavn(String ditNavn) {
+        System.out.println("Jeg hedder " + ditNavn);
+    }
+
+    public static void hejLiselotte() {
+        System.out.println("Hej Liselotte");
+    }
+    
+    public static void navnMikkel() {
+    System.out.println("Mit navn er Mikkel Sørensen. ");
+    }
+}
+    
+    public static void hejErik() {
+        System.out.println("Hej Erik");
 }
