@@ -21,6 +21,8 @@ public class Metoder {
         System.out.println(m.sum3(8, 5 , 10));
 
         indtastOgVisNavn("András");
+        
+        fraJohan("Johan Was here");
 
     }
 
@@ -54,5 +56,8 @@ public class Metoder {
     public static void indtastOgVisNavn(String navn) {
         System.out.println("Hej " + navn);
     }
+    
+    public static void fraJohan(String johanPrint) {
+        System.out.println("Where was Johan? " + johanPrint);
 
 }
