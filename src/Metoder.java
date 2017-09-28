@@ -79,4 +79,9 @@ public class Metoder {
     
     public static void hejErik() {
         System.out.println("Hej Erik");
+        
+        
 }
+    public static void nameNiels() {
+        System.out.println("My name is Niels");
+    }
