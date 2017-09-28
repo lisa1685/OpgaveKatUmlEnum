@@ -75,13 +75,17 @@ public class Metoder {
     public static void navnMikkel() {
     System.out.println("Mit navn er Mikkel Sørensen. ");
     }
-}
     
     public static void hejErik() {
-        System.out.println("Hej Erik");
-        
-        
-}
+        System.out.println("Hej Erik");        
+    }
+
+    public static void hejMichaelH(){
+        System.out.println("Hej Michael");   
+    }
+
     public static void nameNiels() {
         System.out.println("My name is Niels");
     }
+
+}
