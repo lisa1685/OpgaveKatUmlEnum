@@ -71,3 +71,7 @@ public class Metoder {
     public static void hejLiselotte() {
         System.out.println("Hej Liselotte");
 }
+    
+    public static void hejErik() {
+        System.out.println("Hej Erik");
+}
