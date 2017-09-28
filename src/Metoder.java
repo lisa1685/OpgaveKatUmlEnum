@@ -56,6 +56,6 @@ public class Metoder {
     }
     
     public static void HejSebastian() {    
-        System.out.println( " Hej Seabstian");
+        System.out.println( "Hej " + mitNavn);
 
 }
