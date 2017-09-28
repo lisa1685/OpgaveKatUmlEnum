@@ -76,3 +76,7 @@ public class Metoder {
     System.out.println("Mit navn er Mikkel Sørensen. ");
     }
 }
+    
+    public static void hejErik() {
+        System.out.println("Hej Erik");
+}
