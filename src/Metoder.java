@@ -54,5 +54,8 @@ public class Metoder {
     public static void indtastOgVisNavn(String navn) {
         System.out.println("Hej " + navn);
     }
+    
+    public static void hejThomas() {
+        System.out.println("Hej Thomas :i");
 
 }
