@@ -24,6 +24,7 @@ public class Metoder {
 
         indtastOgVisNavn("András");
         
+        fraJohan("Johan Was here");
         hejMathias();
 
         ditNavn("Daniel");
@@ -61,12 +62,16 @@ public class Metoder {
         System.out.println("Hej " + navn);
     }
     
-    public static void HejSebastian() {    
+    public static void fraJohan(String johanPrint) {
+        System.out.println("Where was Johan? " + johanPrint);
+    }
+  
+  public static void HejSebastian() {    
         System.out.println( "Hej " + mitNavn);
-
+  }
     public static void hejThomas() {
         System.out.println("Hej Thomas :i");
-
+    }
   public static void MegetBeskrivendeMetodeMadsN() {
         System.out.println("Hej Mads Nielsen");
      }
