@@ -94,4 +94,10 @@ public class Metoder {
         System.out.println("My name is Niels");
     }
 
+      
+      public static void hejmichael(){
+    System.out.println("Hej Michael");
+   }
+
 }
+ 
